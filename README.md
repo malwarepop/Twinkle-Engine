@@ -1,15 +1,15 @@
 A open source fnf mod engine.
 
-Malware Engine is an open source modification of the Friday Night Funkin' 0.2.7.1 engine
+Twinkle Engine is an open source modification of the Friday Night Funkin' 0.2.7.1 engine
 
-## Malware Engine features
+## Twinkle Engine features
 * FPS and MEM meter
 * Better code organization
 
 ## Credits:
 * Twinklemoon909/Malwarepop: Creator of this engine
 
-# How to compile NMV Engine
+# How to compile Twinkle Engine
 * Haxe 4.3.7
 
 and type in terminal "lime test windows"
