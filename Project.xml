@@ -1,6 +1,6 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
 <project>
-    <app title = "Fridat Night Funkin': Malware Engine" file = "Malware Engine" packageName = "com.ninjamuffin99.funkin" main = "Main" version = "0.0.1" company = "Malware Team" />
+    <app title = "Fridat Night Funkin': Twinkle Engine" file = "Twinkle Engine" packageName = "com.ninjamuffin99.funkin" main = "Main" version = "0.0.1" company = "Twinkle Team" />
 
     <set name = "SWF_VERSION" value = "11.8" />
 
